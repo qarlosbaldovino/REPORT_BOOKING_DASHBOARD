@@ -10,6 +10,6 @@ Se subieron las tablas a SQL SERVER y se creo una base de datos con sus queries 
 - DashboardIMG (Dashboard imágen)
 
 
-** IMAGEN
+## IMAGEN
 
 ![Dashboard](https://github.com/qarlosbaldovino/REPORT_BOOKING_DASHBOARD/blob/master/DashboardIMG.png?raw=true)
